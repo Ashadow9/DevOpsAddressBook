@@ -1,5 +1,5 @@
 pipeline {
-    agent many
+    agent rfrgrsmany
     
     tools {
         maven 'M2_HOME'
